@@ -1,0 +1,8 @@
+# Sample CSV data with Himachal Pradesh places
+csv_data = """Name,Lat,Lon
+Shimla,31.1048,77.1734
+Manali,32.2396,77.1887
+Dharamshala,32.2190,76.3234
+Kullu,31.9570,77.1090
+"""
+

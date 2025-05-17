@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            77.1734,
+            31.1048
+          ],
+          [
+            77.109,
+            31.957
+          ],
+          [
+            77.1887,
+            32.2396
+          ],
+          [
+            76.3234,
+            32.219
+          ],
+          [
+            77.1734,
+            31.1048
+          ]
+        ]
+      },
+      "properties": {
+        "name": "TSP route"
+      }
+    }
+  ]
+}
