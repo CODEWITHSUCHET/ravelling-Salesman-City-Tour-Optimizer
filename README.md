@@ -12,9 +12,3 @@ A Python project that solves the Travelling Salesman Problem using greedy and 2-
   - 2-opt edge-swapping
 - Exports route as GeoJSON (view in Google My Maps or geojson.io)
 
----
-
-## 🧪 How to Run
-
-```bash
-python tsp.py --csv places.csv --start "Shimla" --return-to-start
